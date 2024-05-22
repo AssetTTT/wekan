@@ -36,7 +36,7 @@
     "i18next": "^21.6.16",
     "i18next-sprintf-postprocessor": "^0.2.2",
     "jquery": "^3.7.1",
-    "jquery-ui": "^1.13.0",
+    "jquery-ui": "^1.13.3",
     "jszip": "^3.7.1",
     "ldapjs": "^2.3.3",
     "markdown-it": "^13.0.2",
