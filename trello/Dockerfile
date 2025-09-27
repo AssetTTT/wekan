@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ubuntu:24.04 as wekan
+FROM --platform=linux/amd64 ubuntu:24.10 as wekan
 LABEL maintainer="wekan" \
       org.opencontainers.image.ref.name="ubuntu" \
       org.opencontainers.image.version="24.04" \
